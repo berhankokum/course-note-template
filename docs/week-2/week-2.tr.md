@@ -46,15 +46,15 @@ math: katex
 
 <!-- _backgroundColor: aquq -->
 
-<!-- _color: orange -->
+<!-- _color: brown -->
 
 <!-- paginate: false -->
 
-## Örnek Ders Adı
+## Algoritma ve Programlama-1
 
 ### Hafta-2 (Örnek Ders Modülü Adı)
 
-#### Bahar Dönemi, 20XX-20XX
+#### Bahar Dönemi, 2022-2023
 
 İndir [DOC](week-2.tr.md_doc.pdf), [SLIDE](week-2.tr.md_slide.pdf), [PPTX](week-2.tr.md_slide.pptx)
 
@@ -69,11 +69,10 @@ math: katex
 - Örnek Anahat
 - Örnek Anahat
 - Örnek Anahat
-- Örnek Anahat
 
 ---
 
-## **Örnek Konu**
+## **Lorem Ipsum**
 
 ---
 
@@ -86,7 +85,7 @@ Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsu
        - 1960'larda Lorem Ipsum pasajları içeren Letraset sayfalarının yayınlanmasıyla ve daha yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümlerini içeren masaüstü yayıncılık yazılımlarıyla popüler hale geldi.
 ---
 
-### Örnek Resimler-1
+###  Resimler-1
 
 - **Lorem Ipsum nedir?**
 Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
@@ -95,7 +94,7 @@ Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsu
 
 ---
 
-### Örnek Resimler-2
+###  Resimler-2
 
 - **Lorem Ipsum nedir?**
 Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
@@ -104,7 +103,7 @@ Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsu
 
 ---
 
-### Örnek Resimler-3
+###  Resimler-3
 
 - **Lorem Ipsum nedir?**
 Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
@@ -113,7 +112,7 @@ Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsu
 
 ---
 
-### Örnek Resimler-4
+###  Resimler-4
 
 - **Lorem Ipsum nedir?**
 Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
@@ -122,7 +121,7 @@ Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsu
 
 ---
 
-### Örnek Resimler-5
+###  Resimler-5
 
 - **Lorem Ipsum nedir?**
 Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
@@ -132,7 +131,7 @@ Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsu
 
 ---
 
-### Örnek Resimler-6
+###  Resimler-6
 
 - **Lorem Ipsum nedir?**
 Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
@@ -142,7 +141,7 @@ Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsu
 
 ---
 
-###  Latex Örneği-1
+###   Örneği-1
 
 $$
 \begin{align}
@@ -184,7 +183,7 @@ $$
 
 ---
 
-### Latex Örneği-2
+###  Örneği-2
 
 $$
 \begin{align*}

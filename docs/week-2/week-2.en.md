@@ -46,15 +46,15 @@ math: katex
 
 <!-- _backgroundColor: aquq -->
 
-<!-- _color: orange -->
+<!-- _color: brown -->
 
 <!-- paginate: false -->
 
-## Sample Course Name
+## Algorithms And Programming I
 
 ### Week-2 (Sample Course Module Name)
 
-#### Spring Semester, 20XX-20XX
+#### Spring Semester, 2022-2023
 
 Download [DOC](week-2.en.md_doc.pdf), [SLIDE](week-2.en.md_slide.pdf), [PPTX](week-2.en.md_slide.pptx)
 
@@ -69,11 +69,10 @@ Download [DOC](week-2.en.md_doc.pdf), [SLIDE](week-2.en.md_slide.pdf), [PPTX](we
 - Sample Outline
 - Sample Outline
 - Sample Outline
-- Sample Outline
 
 ---
 
-## **Sample Topic**
+## **Lorem Ipsum**
 
 ---
 
@@ -87,7 +86,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ---
 
-### Sample Images-1
+###  Images-1
 
 - **What is Lorem Ipsum?**
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
@@ -96,7 +95,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ---
 
-### Sample Images-2
+###  Images-2
 
 - **What is Lorem Ipsum?**
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
@@ -105,7 +104,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ---
 
-### Sample Images-3
+###  Images-3
 
 - **What is Lorem Ipsum?**
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
@@ -114,7 +113,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ---
 
-### Sample Images-4
+###  Images-4
 
 - **What is Lorem Ipsum?**
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
@@ -123,7 +122,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ---
 
-### Sample Images-5
+###  Images-5
 
 - **What is Lorem Ipsum?**
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
@@ -133,7 +132,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ---
 
-### Sample Images-6
+###  Images-6
 
 - **What is Lorem Ipsum?**
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
@@ -143,7 +142,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ---
 
-###  Latex Sample-1
+###   Sample-1
 
 $$
 \begin{align}
@@ -185,7 +184,7 @@ $$
 
 ---
 
-### Latex Sample-2
+###  Sample-2
 
 $$
 \begin{align*}
