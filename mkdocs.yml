@@ -3,7 +3,7 @@ site_name: RTEU Course Notes Templates
 docs_dir: docs  # Where to find the English markdown files
 site_dir: site  # Where to put the English HTML files
 site_author: 'Asst. Prof. Dr. Uğur CORUH'
-site_url: 'https://berhankokum.github.io/course-note-template/index.html'
+site_url: 'https://berhankokum.github.io/course-note-template/'
 
 site_description_en: >-
     Computer Engineering
