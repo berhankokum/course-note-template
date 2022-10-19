@@ -2,14 +2,14 @@
 site_name: RTEU Course Notes Templates
 docs_dir: docs  # Where to find the English markdown files
 site_dir: site  # Where to put the English HTML files
-site_author: 'Muhammed Berhan Kokum'
+site_author: 'Asst. Prof. Dr. Uğur CORUH'
 site_url: 'https://berhankokum.github.io/course-note-template/'
 
 site_description_en: >-
-    Course Notes Templates
+    Computer Engineering
 
 site_description_tr: >-
-    Ders Notu Şablonu
+    Bilgisayar Mühendisliği
 
 # Repository
 repo_name: 'GitHub'
